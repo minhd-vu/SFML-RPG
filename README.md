@@ -1,2 +1,2 @@
 # SFML-RPG
-RPG Made Using SFML By Minh Vu & Jeffrey Etter <br />
+RPG made with SFML by @minhd-vu & @JTazz01 <br />
